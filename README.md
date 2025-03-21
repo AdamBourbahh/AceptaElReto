@@ -1,2 +1,2 @@
-# ADA_BYRON.2025
+# ADA_BYRON_C++
 Códigos pertenecientes a la competición universitaria ADA_BYRON
