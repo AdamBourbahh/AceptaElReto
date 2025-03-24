@@ -6,3 +6,8 @@ Dada la alta dificultad de los problemas, empecé a hacerlos de forma frecuente 
 #### Extras:
 Si se encuentra algún fallo, o que se pueda hacer una posible mejora, por favor hágamelo saber por correo: **adam.bourbahh.romero@gmail.com** . Poniendo de asunto **AdaByron**.
 Se agradece toda ayuda, por pequeña que sea.
+
+### Contribuidores:
+Adam Bourbahh Romero
+Jaime Espín Rodríguez
+
