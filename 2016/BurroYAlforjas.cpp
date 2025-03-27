@@ -41,11 +41,12 @@ int maxBurros(int psacos[], int sacos, int burros) {
     // Buscamos parejas de sacos con el mismo peso
     for(int i = 0; i < sacos && parejas < burros; i++) {
         if (!usado[i]) {
-            for(int j = i + 1; j < sacos && parejas < burros; j++) {
+            bool encontrado = false;
+            for(int j = i + 1; j < sacos && parejas < burros && !encontrado; j++) {
                 if (psacos[i] == psacos[j] && !usado[j]) {
                     parejas++;
                     usado[i] = usado[j] = true;  // Marcamos ambos sacos como usados
-                    
+                    encontrado=true;
                 }
             }
         }
