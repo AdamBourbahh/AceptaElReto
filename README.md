@@ -8,6 +8,6 @@ Si se encuentra algún fallo, o que se pueda hacer una posible mejora, por favor
 Se agradece toda ayuda, por pequeña que sea.
 
 ### Contribuidores:
-Adam Bourbahh Romero
-Jaime Espín Rodríguez
+* Adam Bourbahh Romero
+* Jaime Espín Rodríguez
 
