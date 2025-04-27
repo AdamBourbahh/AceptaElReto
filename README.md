@@ -1,13 +1,34 @@
-# ADA_BYRON_C++
-## ¿Qué es la competencia AdaByron?
-AdaByron es un concurso universitario de programación, celebrado de forma anual, y con fase regional y nacional. Durante el concurso, los participantes disponen de 5 horas para resolver los problemas propuestos (normalmente entre 8 y 12 problemas). Deben programar sus soluciones en C, C++ o Java.
-### Motivación.
-Dada la alta dificultad de los problemas, empecé a hacerlos de forma frecuente durante mi tiempo libre, sin embargo nunca encontraba soluciones con las que ayudarme. Por ello decido subir las mías para que aquellos que estén empezando en este mundo puedan tener algo en lo que apoyarse.
-#### Extras:
-Si se encuentra algún fallo, o que se pueda hacer una posible mejora, por favor hágamelo saber por correo: **adam.bourbahh.romero@gmail.com** . Poniendo de asunto **AdaByron**.
-Se agradece toda ayuda, por pequeña que sea.
+# ACEPTA_EL_RETO_C++
 
-### Contribuidores:
-* Adam Bourbahh Romero
-* Jaime Espín Rodríguez
+## ¿Qué es "¡Acepta el Reto!"?
 
+[¡Acepta el Reto!](https://aceptaelreto.com) es una plataforma en línea de programación competitiva en español. Funciona como un **juez automático**, permitiendo enviar soluciones en **C, C++ o Java** y obtener veredictos inmediatos sobre su corrección. Es ideal para practicar algoritmos, estructuras de datos y mejorar habilidades de programación.
+
+---
+
+## Motivación
+
+Comencé a resolver problemas de "¡Acepta el Reto!" para mejorar mis habilidades en programación competitiva. Sin embargo, noté que a menudo no encontraba soluciones claras o explicaciones accesibles. Por ello, decidí subir mis propias soluciones en **C++** a este repositorio, con el objetivo de ayudar a quienes están empezando o buscan referencias prácticas.
+
+Espero que este contenido sea útil para aprender, practicar y mejorar en programación.
+
+---
+
+## Extras
+
+Si encuentras algún error en las soluciones o tienes sugerencias de mejora, no dudes en contactarme:
+
+📧 **e.abourom@go.ugr.es**  
+Por favor, indica en el asunto: **Acepta el Reto**
+
+¡Toda colaboración es bienvenida!
+
+---
+
+## Contribuidores
+
+- Adam Bourbahh Romero
+- Jaime Espín Rodríguez
+- Nicolás Gonzalez Fernández
+
+---
